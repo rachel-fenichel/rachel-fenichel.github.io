@@ -7,3 +7,6 @@
 [submodule "scratch-blocks"]
 	path = scratch-blocks
 	url = https://github.com/rachel-fenichel/scratch-blocks.git
+[submodule "blockly-tools"]
+	path = blockly-tools
+	url = https://github.com/google/blockly-tools.git
